@@ -1,6 +1,7 @@
 //importar React
 import React, {FC} from 'react'
 //import PropTypes from 'prop-types'
+
 import Button, {ButtonClickHandler} from './Button'
 
 type Props = {
